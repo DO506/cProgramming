@@ -1,0 +1,22 @@
+List of employee
+1. Dorji yangzom
+2. Karma tenzin
+3. yeshey dema
+4. Kinlay gyaltshen
+5. Ugyen Lhamo
+6. thinlay zangm0
+7. leki Chozom
+8. Ugyen lhamo
+9. kinlay
+10. dawa
+11. Dorji yangzom
+12. Karma tenzin
+13. yeshey dema
+14. Kinlay gyaltshen
+15. Ugyen Lhamo
+16. thinlay zangm0
+17. leki Chozom
+18. Ugyen lhamo
+19. kinlay
+20. dawa
+
